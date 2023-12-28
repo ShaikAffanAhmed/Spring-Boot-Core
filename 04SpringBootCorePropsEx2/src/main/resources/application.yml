@@ -1,0 +1,15 @@
+my:
+  app:
+    active: true
+    code: Model
+    data:
+    - A
+    - B
+    - C
+    id: 10
+    info:
+      C1: M1
+      C2: M2
+    pob:
+      pcode: task
+      pid: 22

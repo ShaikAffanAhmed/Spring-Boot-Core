@@ -1,0 +1,17 @@
+my:
+  app:
+   host: smtp.gmail.com
+   port: 1023
+   username: sample
+   password: Test
+   protocols:
+   - SMTP
+   - SMTPS
+   - SMTPS2
+   headers:
+     modified: true
+     version: 3.2
+     content: JSON
+   cob:
+     provider: Zomato
+     expExist: INACTIVE
